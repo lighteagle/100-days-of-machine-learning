@@ -38,6 +38,13 @@ Daily log to track my progress in machine learning.
 
 ## Books
 
+- **Deploy Machine Learning Models to Production: With Flask, Streamlit, Docker, and Kubernetes on Google Cloud Platform**
+  
+    > **Author:** Pramod Singh  
+    > **Publication Date:** January 2021  
+    > **DOI:** [10.1007/978-1-4842-6546-8](https://doi.org/10.1007/978-1-4842-6546-8)  
+    > **ISBN:** 978-1-4842-6545-1
+
 ## Web Resources
 
 - [Made with ML](https://madewithml.com/courses/mlops/)
