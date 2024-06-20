@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Using Flask</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <h1>
+        <div style="text-align: center;color: blue;">
+            Prediction From Linier Regression Using Flask
+        </div>
+    </h1>
+    <hr>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <form action="predict" method="POST">
+                    <div class="form-group">
+                        <label for="alcohol">Alcohol</label>
+                        <input type="text" name="alcohol" id="alcohol" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="volatile acidity">Volatile Acidity</label>
+                        <input type="text" name="volatile acidity" id="volatile acidity" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="sulphates">Sulphates</label>
+                        <input type="text" name="sulphates" id="sulphates" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="total sulfur dioxide">Total Sulfur Dioxide</label>
+                        <input type="text" name="total sulfur dioxide" id="total sulfur dioxide" class="form-control">
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        <input type="submit" value="Predict" class="btn btn-primary">
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
