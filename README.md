@@ -11,25 +11,20 @@ Daily log to track my progress in machine learning.
 - [ ] Learn how to deploy ML models into production.
 - [ ] Learn about scripting for MLOps
 - [ ] Learn about the ML Pipeline
-  - [ ] TFX Components
-  - [ ] Orchestration tools
-- [ ] Learn more about privacy & protection for ML applications
-- [ ] Learn the CI/CD for ML
-- [ ] Learn about CUDA and get hands on experience
-- [ ] Learn more about deep reinforcement learning
-  - [ ] Markov Chains
-  - [ ] Stationary distribution probabilities
-  - [ ] Markov Decision Processes
-- [ ] Learn more about generative learning
-- [ ] Learn about AWS microservices
 
 [Additional]
 
+- Learn more about privacy & protection for ML applications
+- Learn the CI/CD for ML
+- Learn about CUDA and get hands on experience
+- Learn more about deep reinforcement learning
+- Learn more about generative learning
+- Learn about AWS microservices
 - Multi-modal Systems
 - Apache Flume
-- [ ] Apache Beam
-- [ ] Apache Airflow
-- [ ] Using Amdahl's Law
+- Apache Beam
+- Apache Airflow
+- Using Amdahl's Law
 - MySQL/Apache Spark
 - PostgreSQL
 - Optimizing/architecting software/hardware solutions for ML
