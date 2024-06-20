@@ -25,7 +25,7 @@ Daily log to track my progress in machine learning.
 
 [Additional]
 
-- Milti-modal Systems
+- Multi-modal Systems
 - Apache Flume
 - [ ] Apache Beam
 - [ ] Apache Airflow
