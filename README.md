@@ -52,10 +52,17 @@ Daily log to track my progress in machine learning.
 ## Daily Goals
 
 ### Day 1: Deploy a Linear Regression model using FLASK
+
   > Data Source :
   >
   > Cortez,Paulo, Cerdeira,A., Almeida,F., Matos,T., and Reis,J.. (2009). Wine Quality. UCI Machine Learning Repository. <https://doi.org/10.24432/C56S3T>.
 
 - Develop a web application using FLASK
 - Code a linear regression model
+- Deploy the trained model as a REST service
+
+### Day 2: Deploy a Linear Regression model using Streamlit
+
+- Read the section about streamlit
+- Create UI using Streamlit
 - Deploy the trained model as a REST service
